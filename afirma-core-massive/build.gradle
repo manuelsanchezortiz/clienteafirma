@@ -1,0 +1,12 @@
+
+description = 'afirma-core-massive'
+dependencies {
+  compile project(':afirma-core')
+  testCompile project(':afirma-crypto-cms')
+  testCompile project(':afirma-crypto-cades-multi')
+  testCompile project(':afirma-crypto-xades')
+  testCompile project(':afirma-crypto-xmlsignature')
+  testCompile project(':afirma-crypto-odf')
+  testCompile project(':afirma-crypto-pdf')
+  testCompile project(':afirma-crypto-ooxml')
+}

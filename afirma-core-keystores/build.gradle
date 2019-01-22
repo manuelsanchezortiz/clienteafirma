@@ -1,0 +1,8 @@
+
+description = 'afirma-core-keystores'
+dependencies {
+  compile project(':afirma-core')
+    compile group: 'es.gob.afirma.jmulticard', name: 'jmulticard', version:'1.4'
+    compile group: 'es.gob.afirma.jmulticard', name: 'jmulticard-jse', version:'1.4'
+    compile group: 'es.gob.afirma.jmulticard', name: 'jmulticard-ui', version:'1.4'
+}

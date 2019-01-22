@@ -1,0 +1,5 @@
+
+description = 'afirma-crypto-cipher'
+dependencies {
+  compile project(':afirma-core')
+}

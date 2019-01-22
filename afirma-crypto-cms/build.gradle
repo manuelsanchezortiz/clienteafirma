@@ -1,0 +1,9 @@
+
+description = 'afirma-crypto-cms'
+dependencies {
+  compile project(':afirma-core')
+  compile project(':afirma-crypto-core-pkcs7')
+    compile group: 'com.madgag.spongycastle', name: 'core', version:'1.56.0.0'
+    compile group: 'com.madgag.spongycastle', name: 'prov', version:'1.56.0.0'
+    compile group: 'com.madgag.spongycastle', name: 'bcpkix-jdk15on', version:'1.56.0.0'
+}

@@ -1,0 +1,6 @@
+
+description = 'afirma-keystores-single'
+dependencies {
+  compile project(':afirma-core')
+  compile project(':afirma-core-keystores')
+}

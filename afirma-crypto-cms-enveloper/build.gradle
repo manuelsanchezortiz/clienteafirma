@@ -1,0 +1,7 @@
+
+description = 'afirma-crypto-cms-enveloper'
+dependencies {
+  compile project(':afirma-core')
+  compile project(':afirma-crypto-cms')
+  compile project(':afirma-crypto-core-pkcs7')
+}

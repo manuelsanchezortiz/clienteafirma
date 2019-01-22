@@ -1,0 +1,7 @@
+
+description = 'afirma-ui-core-jse-keystores'
+dependencies {
+  compile project(':afirma-core')
+  compile project(':afirma-core-keystores')
+  compile project(':afirma-ui-core-jse')
+}

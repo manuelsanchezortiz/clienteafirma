@@ -1,0 +1,17 @@
+
+description = 'afirma-core'
+dependencies {
+    compile group: 'es.gob.afirma.lib', name: 'afirma-lib-jmimemagic', version:'0.0.4'
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+
+            artifact sourceJar {
+                classifier "sources"
+            }
+        }
+    }
+}

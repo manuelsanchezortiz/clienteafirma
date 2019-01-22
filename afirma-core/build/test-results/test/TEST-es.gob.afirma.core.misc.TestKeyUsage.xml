@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="es.gob.afirma.core.misc.TestKeyUsage" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-21T15:59:49" hostname="PC0G86E3" time="0.036">
+  <properties/>
+  <testcase name="testCertKeyUsage" classname="es.gob.afirma.core.misc.TestKeyUsage" time="0.036"/>
+  <system-out><![CDATA[Autenticación
+Firma
+Cifrado
+Firma
+Autenticación y cifrado
+Autenticación
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

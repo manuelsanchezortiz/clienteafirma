@@ -1,0 +1,23 @@
+
+description = 'afirma-crypto-xades'
+dependencies {
+  compile project(':afirma-crypto-core-xml')
+    compile group: 'es.uji.crypto.xades', name: 'jxades', version:'0.2.0'
+  compile project(':afirma-crypto-core-pkcs7-tsp')
+    compile(group: 'com.io7m.xom', name: 'xom', version:'1.2.10') {
+exclude(module: 'xalan')
+exclude(module: 'xml-apis')
+exclude(module: 'xercesImpl')
+    }
+}
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+
+            artifact sourceJar {
+                classifier "sources"
+            }
+        }
+    }
+}

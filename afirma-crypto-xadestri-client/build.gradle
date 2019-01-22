@@ -1,0 +1,5 @@
+
+description = 'afirma-crypto-xadestri-client'
+dependencies {
+  compile project(':afirma-core')
+}

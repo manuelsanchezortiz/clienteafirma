@@ -1,0 +1,64 @@
+rootProject.name = 'afirma-client'
+include ':afirma-core'
+include ':afirma-core-keystores'
+include ':afirma-crypto-batch-client'
+include ':afirma-crypto-cadestri-client'
+include ':afirma-crypto-cipher'
+include ':afirma-crypto-core-pkcs7'
+include ':afirma-crypto-cades'
+include ':afirma-crypto-cades-multi'
+include ':afirma-crypto-cms'
+include ':afirma-crypto-cms-enveloper'
+include ':afirma-crypto-core-pkcs7-tsp'
+include ':afirma-crypto-core-xml'
+include ':afirma-crypto-odf'
+include ':afirma-crypto-padestri-client'
+include ':afirma-crypto-pdf-enhancer'
+include ':afirma-crypto-validation'
+include ':afirma-crypto-xades'
+include ':afirma-crypto-xadestri-client'
+include ':afirma-crypto-xmlsignature'
+include ':afirma-crypto-ooxml'
+include ':afirma-crypto-jarverifier'
+include ':afirma-keystores-capiaddressbook'
+include ':afirma-keystores-filters'
+include ':afirma-keystores-mozilla'
+include ':afirma-keystores-single'
+include ':afirma-ui-core-jse'
+include ':afirma-ui-core-jse-keystores'
+include ':afirma-crypto-pdf'
+include ':afirma-core-massive'
+include ':afirma-server-triphase-signer-core'
+include ':afirma-server-triphase-signer-document'
+
+project(':afirma-core').projectDir = "$rootDir/afirma-core" as File
+project(':afirma-core-keystores').projectDir = "$rootDir/afirma-core-keystores" as File
+project(':afirma-crypto-batch-client').projectDir = "$rootDir/afirma-crypto-batch-client" as File
+project(':afirma-crypto-cadestri-client').projectDir = "$rootDir/afirma-crypto-cadestri-client" as File
+project(':afirma-crypto-cipher').projectDir = "$rootDir/afirma-crypto-cipher" as File
+project(':afirma-crypto-core-pkcs7').projectDir = "$rootDir/afirma-crypto-core-pkcs7" as File
+project(':afirma-crypto-cades').projectDir = "$rootDir/afirma-crypto-cades" as File
+project(':afirma-crypto-cades-multi').projectDir = "$rootDir/afirma-crypto-cades-multi" as File
+project(':afirma-crypto-cms').projectDir = "$rootDir/afirma-crypto-cms" as File
+project(':afirma-crypto-cms-enveloper').projectDir = "$rootDir/afirma-crypto-cms-enveloper" as File
+project(':afirma-crypto-core-pkcs7-tsp').projectDir = "$rootDir/afirma-crypto-core-pkcs7-tsp" as File
+project(':afirma-crypto-core-xml').projectDir = "$rootDir/afirma-crypto-core-xml" as File
+project(':afirma-crypto-odf').projectDir = "$rootDir/afirma-crypto-odf" as File
+project(':afirma-crypto-padestri-client').projectDir = "$rootDir/afirma-crypto-padestri-client" as File
+project(':afirma-crypto-pdf-enhancer').projectDir = "$rootDir/afirma-crypto-pdf-enhancer" as File
+project(':afirma-crypto-validation').projectDir = "$rootDir/afirma-crypto-validation" as File
+project(':afirma-crypto-xades').projectDir = "$rootDir/afirma-crypto-xades" as File
+project(':afirma-crypto-xadestri-client').projectDir = "$rootDir/afirma-crypto-xadestri-client" as File
+project(':afirma-crypto-xmlsignature').projectDir = "$rootDir/afirma-crypto-xmlsignature" as File
+project(':afirma-crypto-ooxml').projectDir = "$rootDir/afirma-crypto-ooxml" as File
+project(':afirma-crypto-jarverifier').projectDir = "$rootDir/afirma-crypto-jarverifier" as File
+project(':afirma-keystores-capiaddressbook').projectDir = "$rootDir/afirma-keystores-capiaddressbook" as File
+project(':afirma-keystores-filters').projectDir = "$rootDir/afirma-keystores-filters" as File
+project(':afirma-keystores-mozilla').projectDir = "$rootDir/afirma-keystores-mozilla" as File
+project(':afirma-keystores-single').projectDir = "$rootDir/afirma-keystores-single" as File
+project(':afirma-ui-core-jse').projectDir = "$rootDir/afirma-ui-core-jse" as File
+project(':afirma-ui-core-jse-keystores').projectDir = "$rootDir/afirma-ui-core-jse-keystores" as File
+project(':afirma-crypto-pdf').projectDir = "$rootDir/afirma-crypto-pdf" as File
+project(':afirma-core-massive').projectDir = "$rootDir/afirma-core-massive" as File
+project(':afirma-server-triphase-signer-core').projectDir = "$rootDir/afirma-server-triphase-signer-core" as File
+project(':afirma-server-triphase-signer-document').projectDir = "$rootDir/afirma-server-triphase-signer-document" as File

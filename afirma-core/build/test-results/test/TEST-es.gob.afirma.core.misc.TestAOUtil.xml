@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="es.gob.afirma.core.misc.TestAOUtil" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-01-21T15:59:49" hostname="PC0G86E3" time="0.026">
+  <properties/>
+  <testcase name="testPlatform" classname="es.gob.afirma.core.misc.TestAOUtil" time="0.005"/>
+  <testcase name="testGetCN" classname="es.gob.afirma.core.misc.TestAOUtil" time="0.019"/>
+  <testcase name="testCreateUri" classname="es.gob.afirma.core.misc.TestAOUtil" time="0.001"/>
+  <system-out><![CDATA[C:\WINDOWS\System32
+CN="fulanito Menganito", C=ES: fulanito Menganito
+ CN="fulanito Menganito", C=ES: fulanito Menganito
+CN="fulanito, Menganito", C=ES: fulanito, Menganito
+CN=fulanito Menganito, C=ES: fulanito Menganito
+CN=fulanito Menganito , C=ES: fulanito Menganito
+CN = fulanito Menganito, C=ES: fulanito Menganito
+CN=fulanito Menganito, C=ES: fulanito Menganito
+C=ES, CN=fulanito Menganito: fulanito Menganito
+C=ES,CN=fulanito Menganito: fulanito Menganito
+C=ES,CN =fulanito Menganito: fulanito Menganito
+C=ES,CN = fulanito Menganito: fulanito Menganito
+C=ES,CN=fulanito Menganito: fulanito Menganito
+C=ES,CN ="fulanito Menganito": fulanito Menganito
+C=ES,CN= "fulanito Menganito": fulanito Menganito
+OU="mi organizacion", C=ES: mi organizacion
+ OU="mi organizacion", C=ES: mi organizacion
+OU="mi organizacion", C=ES: mi organizacion
+OU=mi organizacion, C=ES: mi organizacion
+OU=mi organizacion , C=ES: mi organizacion
+OU = mi organizacion, C=ES: mi organizacion
+OU=mi organizacion, C=ES: mi organizacion
+C=ES, OU=mi organizacion: mi organizacion
+C=ES, OU = mi organizacion: mi organizacion
+C=ES,OU=mi organizacion: mi organizacion
+C=ES,OU = mi organizacion: mi organizacion
+C=ES,OU="mi organizacion": mi organizacion
+C=ES,OU= "mi organizacion": mi organizacion
+PCN=mi organizacion, C=ES: mi organizacion
+CN=, C=ES: 
+C=ES, PCN=fulanito Menganito: ES
+C=ES, P CN="fulanito Menganito": fulanito Menganito
+C=ES, P ,CN="fulanito Menganito": fulanito Menganito
+C=ES, CN="": 
+C=ES, CN=: 
+C=ES, CN=": 
+C=ES, CN=" :  
+C=ES, CN: ES
+C=ES, CN a: ES
+Hola Mundo!!: Hola Mundo!!
+null: null
+file://c:/kaka/naca//das%20des/a.txt
+]]></system-out>
+  <system-err><![CDATA[ene 21, 2019 4:59:49 PM es.gob.afirma.core.misc.AOUtil getCN
+ADVERTENCIA: No se ha podido obtener el Common Name ni la Organizational Unit, se devolvera el fragmento mas significativo
+ene 21, 2019 4:59:49 PM es.gob.afirma.core.misc.AOUtil getCN
+ADVERTENCIA: No se ha podido obtener el Common Name ni la Organizational Unit, se devolvera el fragmento mas significativo
+ene 21, 2019 4:59:49 PM es.gob.afirma.core.misc.AOUtil getCN
+ADVERTENCIA: No se ha podido obtener el Common Name ni la Organizational Unit, se devolvera el fragmento mas significativo
+ene 21, 2019 4:59:49 PM es.gob.afirma.core.misc.AOUtil getCN
+ADVERTENCIA: No se ha podido obtener el Common Name ni la Organizational Unit, se devolvera el fragmento mas significativo
+ene 21, 2019 4:59:49 PM es.gob.afirma.core.misc.AOUtil getCN
+ADVERTENCIA: Principal no valido, se devolvera la entrada
+]]></system-err>
+</testsuite>

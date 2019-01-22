@@ -1,0 +1,8 @@
+
+description = 'afirma-crypto-jarverifier'
+dependencies {
+  compile project(':afirma-core')
+    compile group: 'com.madgag.spongycastle', name: 'core', version:'1.56.0.0'
+    compile group: 'com.madgag.spongycastle', name: 'prov', version:'1.56.0.0'
+    compile group: 'com.madgag.spongycastle', name: 'bcpkix-jdk15on', version:'1.56.0.0'
+}

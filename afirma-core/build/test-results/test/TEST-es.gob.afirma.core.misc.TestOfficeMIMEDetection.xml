@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="es.gob.afirma.core.misc.TestOfficeMIMEDetection" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-01-21T15:59:50" hostname="PC0G86E3" time="0.051">
+  <properties/>
+  <testcase name="testVisioDetection" classname="es.gob.afirma.core.misc.TestOfficeMIMEDetection" time="0.015"/>
+  <testcase name="testPowerPointDetection" classname="es.gob.afirma.core.misc.TestOfficeMIMEDetection" time="0.011"/>
+  <testcase name="testWordDetection" classname="es.gob.afirma.core.misc.TestOfficeMIMEDetection" time="0.006"/>
+  <testcase name="testExcelDetection" classname="es.gob.afirma.core.misc.TestOfficeMIMEDetection" time="0.007"/>
+  <testcase name="testProjectDetection" classname="es.gob.afirma.core.misc.TestOfficeMIMEDetection" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ene 21, 2019 4:59:50 PM es.gob.afirma.core.misc.OfficeAnalizer getMimeType
+ADVERTENCIA: El fichero indicado no es un ZIP: java.util.zip.ZipException: error in opening zip file
+ene 21, 2019 4:59:50 PM es.gob.afirma.core.misc.OfficeAnalizer getMimeType
+ADVERTENCIA: El fichero indicado no es un ZIP: java.util.zip.ZipException: error in opening zip file
+ene 21, 2019 4:59:50 PM es.gob.afirma.core.misc.OfficeAnalizer getMimeType
+ADVERTENCIA: El fichero indicado no es un ZIP: java.util.zip.ZipException: error in opening zip file
+]]></system-err>
+</testsuite>

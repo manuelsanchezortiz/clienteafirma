@@ -1,0 +1,16 @@
+
+description = 'afirma-ui-core-jse'
+dependencies {
+  compile project(':afirma-core')
+}
+publishing {
+  publications {
+    mavenJava(MavenPublication) {
+      from components.java
+
+      artifact sourceJar {
+        classifier "sources"
+      }
+    }
+  }
+}

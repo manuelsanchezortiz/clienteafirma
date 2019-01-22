@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/cygwin64/home/CA6/.sdkman/candidates/gradle/4.10.3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/afirma-core" />
+            <option value="$PROJECT_DIR$/afirma-core-keystores" />
+            <option value="$PROJECT_DIR$/afirma-core-massive" />
+            <option value="$PROJECT_DIR$/afirma-crypto-batch-client" />
+            <option value="$PROJECT_DIR$/afirma-crypto-cades" />
+            <option value="$PROJECT_DIR$/afirma-crypto-cades-multi" />
+            <option value="$PROJECT_DIR$/afirma-crypto-cadestri-client" />
+            <option value="$PROJECT_DIR$/afirma-crypto-cipher" />
+            <option value="$PROJECT_DIR$/afirma-crypto-cms" />
+            <option value="$PROJECT_DIR$/afirma-crypto-cms-enveloper" />
+            <option value="$PROJECT_DIR$/afirma-crypto-core-pkcs7" />
+            <option value="$PROJECT_DIR$/afirma-crypto-core-pkcs7-tsp" />
+            <option value="$PROJECT_DIR$/afirma-crypto-core-xml" />
+            <option value="$PROJECT_DIR$/afirma-crypto-jarverifier" />
+            <option value="$PROJECT_DIR$/afirma-crypto-odf" />
+            <option value="$PROJECT_DIR$/afirma-crypto-ooxml" />
+            <option value="$PROJECT_DIR$/afirma-crypto-padestri-client" />
+            <option value="$PROJECT_DIR$/afirma-crypto-pdf" />
+            <option value="$PROJECT_DIR$/afirma-crypto-pdf-enhancer" />
+            <option value="$PROJECT_DIR$/afirma-crypto-validation" />
+            <option value="$PROJECT_DIR$/afirma-crypto-xades" />
+            <option value="$PROJECT_DIR$/afirma-crypto-xadestri-client" />
+            <option value="$PROJECT_DIR$/afirma-crypto-xmlsignature" />
+            <option value="$PROJECT_DIR$/afirma-keystores-capiaddressbook" />
+            <option value="$PROJECT_DIR$/afirma-keystores-filters" />
+            <option value="$PROJECT_DIR$/afirma-keystores-mozilla" />
+            <option value="$PROJECT_DIR$/afirma-keystores-single" />
+            <option value="$PROJECT_DIR$/afirma-server-triphase-signer-core" />
+            <option value="$PROJECT_DIR$/afirma-server-triphase-signer-document" />
+            <option value="$PROJECT_DIR$/afirma-ui-core-jse" />
+            <option value="$PROJECT_DIR$/afirma-ui-core-jse-keystores" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

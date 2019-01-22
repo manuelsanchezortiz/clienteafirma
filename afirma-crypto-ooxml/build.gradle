@@ -1,0 +1,8 @@
+
+description = 'afirma-crypto-ooxml'
+dependencies {
+  compile project(':afirma-core')
+  compile project(':afirma-crypto-xades')
+  compile project(':afirma-crypto-xmlsignature')
+    compile group: 'es.uji.crypto.xades', name: 'jxades', version:'0.2.0'
+}

@@ -1,0 +1,5 @@
+
+description = 'afirma-crypto-padestri'
+dependencies {
+  compile project(':afirma-core')
+}

@@ -1,0 +1,10 @@
+
+description = 'afirma-crypto-pdf-enhancer'
+dependencies {
+  compile project(':afirma-core')
+    compile group: 'axis', name: 'axis', version:'1.3'
+    compile group: 'axis', name: 'axis-ant', version:'1.3'
+    compile group: 'axis', name: 'axis-schema', version:'1.3'
+    compile group: 'wss4j', name: 'wss4j', version:'1.5.0'
+    compile group: 'log4j', name: 'log4j', version:'1.2.17'
+}

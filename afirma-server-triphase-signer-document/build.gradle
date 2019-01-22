@@ -1,0 +1,13 @@
+
+description = 'afirma-server-triphase-signer-document'
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+
+            artifact sourceJar {
+                classifier "sources"
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="es.gob.afirma.core.misc.TestMIMEDetection" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-01-21T15:59:49" hostname="PC0G86E3" time="0.138">
+  <properties/>
+  <testcase name="testRarDetection" classname="es.gob.afirma.core.misc.TestMIMEDetection" time="0.089"/>
+  <testcase name="testPdfDetection" classname="es.gob.afirma.core.misc.TestMIMEDetection" time="0.012"/>
+  <testcase name="testTxtDetection" classname="es.gob.afirma.core.misc.TestMIMEDetection" time="0.018"/>
+  <testcase name="testXmlDetection" classname="es.gob.afirma.core.misc.TestMIMEDetection" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

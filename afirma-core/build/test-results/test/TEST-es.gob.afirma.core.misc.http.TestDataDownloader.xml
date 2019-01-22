@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="es.gob.afirma.core.misc.http.TestDataDownloader" tests="5" skipped="5" failures="0" errors="0" timestamp="2019-01-21T15:59:49" hostname="PC0G86E3" time="0.001">
+  <properties/>
+  <testcase name="testGet" classname="es.gob.afirma.core.misc.http.TestDataDownloader" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testPost" classname="es.gob.afirma.core.misc.http.TestDataDownloader" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="doDirectPost" classname="es.gob.afirma.core.misc.http.TestDataDownloader" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="testDataDownloaderInvalidUrl" classname="es.gob.afirma.core.misc.http.TestDataDownloader" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDataDownloaderFile" classname="es.gob.afirma.core.misc.http.TestDataDownloader" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

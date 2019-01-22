@@ -1,0 +1,5 @@
+
+description = 'afirma-crypto-batch-client'
+dependencies {
+  compile project(':afirma-core')
+}

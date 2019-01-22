@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="es.gob.afirma.afirma-core-keystores.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-core-keystores.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-core-massive.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-core-massive.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-core.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-core.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-batch-client.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-batch-client.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cades-multi.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cades-multi.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cades.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cades.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cadestri-client.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cadestri-client.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cipher.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cipher.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cms-enveloper.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cms-enveloper.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cms.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-cms.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-core-pkcs7-tsp.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-core-pkcs7-tsp.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-core-pkcs7.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-core-pkcs7.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-core-xml.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-core-xml.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-jarverifier.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-jarverifier.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-odf.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-odf.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-ooxml.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-ooxml.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-padestri-client.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-padestri-client.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-pdf-enhancer.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-pdf-enhancer.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-pdf.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-pdf.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-validation.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-validation.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-xades.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-xades.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-xadestri-client.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-xadestri-client.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-xmlsignature.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-crypto-xmlsignature.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-keystores-capiaddressbook.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-keystores-capiaddressbook.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-keystores-filters.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-keystores-filters.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-keystores-mozilla.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-keystores-mozilla.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-keystores-single.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-keystores-single.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-server-triphase-signer-core.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-server-triphase-signer-core.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-server-triphase-signer-document.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-server-triphase-signer-document.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-ui-core-jse-keystores.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-ui-core-jse-keystores.test" target="1.7" />
+      <module name="es.gob.afirma.afirma-ui-core-jse.main" target="1.7" />
+      <module name="es.gob.afirma.afirma-ui-core-jse.test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

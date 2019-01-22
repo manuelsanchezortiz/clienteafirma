@@ -1,0 +1,15 @@
+
+description = 'afirma-crypto-validation'
+dependencies {
+  compile project(':afirma-core')
+  compile project(':afirma-crypto-cms')
+  compile project(':afirma-crypto-cades')
+  compile project(':afirma-crypto-core-xml')
+  compile project(':afirma-crypto-pdf')
+  compile project(':afirma-crypto-xades')
+  compile project(':afirma-crypto-ooxml')
+  compile project(':afirma-crypto-odf')
+    compile group: 'com.madgag.spongycastle', name: 'core', version:'1.56.0.0'
+    compile group: 'com.madgag.spongycastle', name: 'prov', version:'1.56.0.0'
+    compile group: 'es.gob.afirma.lib', name: 'afirma-lib-itext', version:'1.1'
+}

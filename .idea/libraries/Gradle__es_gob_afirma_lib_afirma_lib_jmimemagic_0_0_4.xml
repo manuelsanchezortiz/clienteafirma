@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: es.gob.afirma.lib:afirma-lib-jmimemagic:0.0.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Could not resolve es.gob.afirma.lib:afirma-lib-jmimemagic:0.0.4." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/es.gob.afirma.lib/afirma-lib-jmimemagic/0.0.4/19c899e20f25374134ad0ee7d31a9926beeab36a/afirma-lib-jmimemagic-0.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/es.gob.afirma.lib/afirma-lib-jmimemagic/0.0.4/9749461ea25807b3437ff652d14661f3678b942/afirma-lib-jmimemagic-0.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
